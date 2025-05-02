@@ -1,0 +1,5 @@
+📌 INSIGHTS: Superstore Sales Dashboard
+
+1. The West region had the highest sales, especially in Q3.
+2. Technology was the top-selling category across all regions.
+3. Sales peaked in November and December, suggesting a seasonal pattern.
